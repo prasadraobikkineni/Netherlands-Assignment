@@ -29,7 +29,13 @@ folder present - delete it before running
 Test: Install Playwright 
 ```
 
-## Running Tests
+##Command Line
+Running all tests
+
+npx playwright test
+
+
+## Running Tests within IDE
 You can run a single test by clicking the green triangle next to your test block to run your test. Playwright will run through each line of the test and when it finishes you will see a green tick next to your test block as well as the time it took to run the test.
 
 ## Run Tests and Show Browsers
