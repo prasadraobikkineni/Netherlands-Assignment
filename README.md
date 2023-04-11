@@ -30,9 +30,12 @@ Test: Install Playwright
 ```
 
 ##Command Line
+
 Running all tests
 
+```bash
 npx playwright test
+```
 
 
 ## Running Tests within IDE
